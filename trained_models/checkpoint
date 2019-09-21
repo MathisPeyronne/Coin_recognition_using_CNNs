@@ -1,0 +1,4 @@
+model_checkpoint_path: "lenet-V2_0.9942982456140351"
+all_model_checkpoint_paths: "lenet-V2_0.9921052631578947"
+all_model_checkpoint_paths: "lenet-V2_0.9923245614035088"
+all_model_checkpoint_paths: "lenet-V2_0.9942982456140351"
